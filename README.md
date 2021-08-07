@@ -1,2 +1,3 @@
-# all_python_projects
-Only for python practice 
+# Healthcare Management System
+
+Predict diabetes on a person based on blood sample collected.
